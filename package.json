@@ -1,0 +1,17 @@
+{
+  "name": "stylelint-config-arzyu",
+  "version": "0.1.0",
+  "description": "Another stylelint configuration",
+  "main": "config.json",
+  "files": [
+    "config.json"
+  ],
+  "dependencies": {
+    "stylelint-config-css-modules": "^1.4.0",
+    "stylelint-config-recommended": "^2.2.0"
+  },
+  "peerDependencies": {
+    "stylelint": "*"
+  },
+  "license": "MIT"
+}
