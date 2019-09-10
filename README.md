@@ -3,5 +3,5 @@
 ## Installation
 
 ```shell
-npm add -D arzyu/stylelint-config-arzyu
+npm add -D @arzyu/stylelint-config-arzyu
 ```

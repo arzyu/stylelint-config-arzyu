@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-arzyu",
+  "name": "@arzyu/stylelint-config-arzyu",
   "version": "0.1.0",
   "description": "Another stylelint configuration",
   "main": "config.json",
@@ -12,6 +12,10 @@
   },
   "peerDependencies": {
     "stylelint": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arzyu/stylelint-config-arzyu"
   },
   "license": "MIT"
 }
